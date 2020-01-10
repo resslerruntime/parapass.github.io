@@ -1,1 +1,14 @@
-
+body {
+  font-family: sans-serif;
+  background-color: #212121;
+}
+.button {
+background:    #a602d7;
+border:        3px solid #000000;
+border-radius: 5px;
+padding:       8px 20px;
+color:         #ffffff;
+display:       inline-block;
+font:          normal bold 24px/1 "Open Sans", sans-serif;
+text-align:    center;
+}
