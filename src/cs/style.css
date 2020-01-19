@@ -1,6 +1,5 @@
 body {
-  font-family: sans-serif;
-  background-color: #1a1a1a;
+  background-color: #1a1a1a
 }
 .content {
   text-align: center;
@@ -24,3 +23,11 @@ display:       inline-block;
 font:          normal bold 24px/1 "Open Sans", sans-serif;
 text-align:    center;
 }
+
+p {
+  font-family: sans-serif
+}
+h1 {
+  font-family: sans-serif
+}
+
