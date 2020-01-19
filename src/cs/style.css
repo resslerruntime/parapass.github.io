@@ -1,6 +1,8 @@
 body {
   font-family: sans-serif;
   background-color: #1a1a1a;
+}
+.content {
   text-align: center;
   height: 4em;
   font-size: 48px;
