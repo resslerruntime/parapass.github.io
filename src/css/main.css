@@ -25,15 +25,15 @@ text-align:    center;
 }
 
 p {
-  font-family: sans-serif
+  font-family: sans-serif;
 }
 h1 {
-  font-family: sans-serif
+  font-family: sans-serif;
 }
 h2 {
-  font-family: sans-serif
+  font-family: sans-serif;
 }
 a:hover, a:visited, a:link, a:active
 {
-    text-decoration: none
+    text-decoration: none;
 }
