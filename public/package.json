@@ -1,0 +1,16 @@
+{
+    "name": "aitten.github.io",
+    "description": "My personal website",
+    "version": "1.0.0",
+    "main": "index.html",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/aitten/aitten.github.io.git"
+    },
+    "keywords": [],
+    "author": "Aitten",
+    "bugs": {
+      "url": "https://github.com/aitten/aitten.github.io/issues"
+    },
+    "homepage": "https://github.com/aitten/aitten.github.io"
+  }
