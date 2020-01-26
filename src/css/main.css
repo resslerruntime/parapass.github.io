@@ -15,13 +15,18 @@ body {
 
 .button {
 background:    #2dec07;
-border:        3px solid #000000;
+border:        1px solid #ffffff;
 border-radius: 5px;
 padding:       8px 20px;
 color:         #000000;
 display:       inline-block;
 font:          normal bold 24px/1 "Open Sans", sans-serif;
 text-align:    center;
+}
+
+.button:hover {
+  background: #d51ce6;
+  color: white;
 }
 
 p {
