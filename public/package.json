@@ -1,16 +1,16 @@
 {
-    "name": "aitten.github.io",
+    "name": "parapass.github.io",
     "description": "My personal website",
     "version": "1.0.0",
     "main": "index.html",
     "repository": {
       "type": "git",
-      "url": "https://github.com/aitten/aitten.github.io.git"
+      "url": "https://github.com/parapass/parapass.github.io.git"
     },
     "keywords": [],
-    "author": "Aitten",
+    "author": "Parapass",
     "bugs": {
-      "url": "https://github.com/aitten/aitten.github.io/issues"
+      "url": "https://github.com/parapass/parapass.github.io/issues"
     },
-    "homepage": "https://github.com/aitten/aitten.github.io"
+    "homepage": "https://github.com/parapass/parapass.github.io"
   }
