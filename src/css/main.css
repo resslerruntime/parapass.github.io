@@ -32,11 +32,12 @@ p {
 h1 {
   font-family: sans-serif;
   color: white;
+  font-size: xx-large;
 }
 h2 {
   font-family: sans-serif;
   color: white;
-  font-size: medium;
+  font-size: larger;
 }
 a:hover, a:visited, a:link, a:active
 {
