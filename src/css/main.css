@@ -14,11 +14,11 @@ body {
 }
 
 .button {
-background:    #a602d7;
+background:    #2dec07;
 border:        3px solid #000000;
 border-radius: 5px;
 padding:       8px 20px;
-color:         #ffffff;
+color:         #000000;
 display:       inline-block;
 font:          normal bold 24px/1 "Open Sans", sans-serif;
 text-align:    center;
