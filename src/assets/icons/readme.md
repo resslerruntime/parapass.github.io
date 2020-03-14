@@ -1,0 +1,2 @@
+# Icons
+Site favicon
