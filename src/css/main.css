@@ -12,6 +12,8 @@ body {
 
 .divider {
   width: 2px;
+  height:auto;
+  display:inline-block;
 }
 
 .content {
