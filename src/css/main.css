@@ -10,6 +10,10 @@ body {
   align-items: center;
 }
 
+.divider {
+  width: 2px;
+}
+
 .content {
   text-align: center;
 }
