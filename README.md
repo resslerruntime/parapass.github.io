@@ -1,3 +1,3 @@
-![GitHub repo size](https://img.shields.io/github/repo-size/aitten/aitten.github.io)
+![GitHub repo size](https://img.shields.io/github/repo-size/parapass/parapass.github.io)
 
-My website. That's all you need to know. If you want the source, download it using the green button.
+My website where I host my sabers and other projects. Also a portfolio.
