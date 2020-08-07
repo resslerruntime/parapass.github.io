@@ -19,6 +19,8 @@ color: white;
 .topnav {
   background-color: #333;
   overflow: hidden;
+  font-family: sans-serif;
+  text-align: top;
 }
 
 /* Style the links inside the navigation bar */
