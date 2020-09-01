@@ -38,6 +38,19 @@ body {
   color: white;
 }
 
+.content {
+  text-align: center;
+  height: 4em;
+  font-size: 48px;
+  color: rgb(42, 43, 37);
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  margin: auto;
+}
+
 .button {
 background:    #303030;
 border: none;
