@@ -37,3 +37,38 @@ body {
   background-color: #4CAF50;
   color: white;
 }
+
+.button {
+background:    #303030;
+border: none;
+border-radius: 8px;
+padding:       8px 20px;
+color:         #bdbdbd;
+display:       inline-block;
+font:          normal bold 16px/1 "Open Sans", sans-serif;
+text-align:    center;
+}
+
+.button:hover {
+  background: #121212;
+  color: white;
+}
+
+p {
+  font-family: sans-serif;
+  color: white;
+  font-size: small;
+}
+h1 {
+  font-family: sans-serif;
+  color: white;
+}
+h2 {
+  font-family: sans-serif;
+  color: white;
+  font-size: larger;
+}
+a:hover, a:visited, a:link, a:active
+{
+    text-decoration: none;
+}
