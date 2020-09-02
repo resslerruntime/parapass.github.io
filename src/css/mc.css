@@ -47,23 +47,23 @@ text-align:    center;
 
  
 .btn, .btn2 {
-     width=300px;
-     height=100px;
-     font-size=30px;
-     text-align=center;
-     line-height=100px;
-     color=rgba(255,255,255,0.9);
-     border-radius=50px;
-     background linear-gradient(-45deg, #FFA63D, #FF3D77, #338AFF, #3CF0C5);
-     background-size=600%;
-     animation=anime 16s linear infinite;
+     width = 300px;
+     height = 100px;
+     font-size = 30px;
+     text-align = center;
+     line-height = 100px;
+     color = rgba(255,255,255,0.9);
+     border-radius = 50px;
+     background = linear-gradient(-45deg, #FFA63D, #FF3D77, #338AFF, #3CF0C5);
+     background - size=600%;
+     animation = anime 16s linear infinite;
 }
  .btn2 {
-     position=absolute;
-     margin-top=-70px;
-     z-index=-1;
-     filter=blur(30px);
-     opacity=0.8;
+     position = absolute;
+     margin-top = -70px;
+     z-index = -1;
+     filter=blur = (30px);
+     opacity = 0.8;
 }
      
  @keyframes anime 
