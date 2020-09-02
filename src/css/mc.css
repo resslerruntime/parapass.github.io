@@ -85,9 +85,3 @@ color: red;
     display: inline-block;
     border-radius: 25px;
 }
-.gradient-button:hover{
-    box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
-    margin: 8px 10px 12px;
-}
-.gradient-button-1 {background-image: linear-gradient(to right, #D10E00 0%, #9428B5 51%, #04A5C9 100%)}
-.gradient-button-1:hover { background-position: right center; }
